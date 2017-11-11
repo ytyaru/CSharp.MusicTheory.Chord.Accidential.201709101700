@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Console/Program.cs">
+    <Files>
+      <File FileName="Console/Program.cs" Line="15" Column="28" />
+      <File FileName="MusicTheory.Chord.201709101113/Degree.cs" Line="1" Column="1" />
+      <File FileName="MusicTheory.Chord.201709101113/Accidental.cs" Line="6" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Console" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Program.cs" selected="True" />
+          </Node>
+          <Node name="MusicTheory.Chord.201709101113" expanded="True">
+            <Node name="Properties" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
